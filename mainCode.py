@@ -3,7 +3,7 @@
 # Summer Research Student at AP2D Labs
 # Finished by: 27th August 2020
 # The algorithm below optimises the geometry of a plasmon sensor having a single groove.
-# The algorithm varies the depth and the width of the groove and calculates the maximum intensity
+# The algorithm varies the depth and the width of the groove and calculates the maximum intensity of EM wave.
 
 
 
